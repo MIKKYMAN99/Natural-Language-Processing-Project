@@ -2,16 +2,10 @@
 
 This project included 3 sections:
 
-Section 1:
-    1.1 Writing style and dependency parsing
-    1.2 POS tagging
+Section 1: Writing style and dependency parsing and POS tagging
 
-Section 2:
-    2.1 Text Classification with Word2Vec
-    2.2 Text Classification with BERT
+Section 2: Text Classification with Word2Vec and Text Classification with BERT
 
-Section 3:
-    3.1 Sentiment Analysis with BERT
-    3.2 Emotional content of stories
+Section 3: Sentiment Analysis with BERT and Emotional content of stories
 
 Please look at the report for a more detailed explanation
