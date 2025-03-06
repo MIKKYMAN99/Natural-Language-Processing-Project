@@ -2,7 +2,7 @@
 
 This project included 3 sections:
 
-Section 1: Writing style and dependency parsing and POS tagging
+Section 1: Writing style, dependency parsing, and POS tagging
 
 Section 2: Text Classification with Word2Vec and Text Classification with BERT
 
